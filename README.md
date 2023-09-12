@@ -111,7 +111,7 @@ By ensuring the database exists and that your application's configuration matche
 
 **`error exec format error`**:
 
-The `error exec format error`` typically indicates a mismatch between the architecture of the binary you're trying to execute and the architecture of the system you're running it on.
+The `error exec format error`  typically indicates a mismatch between the architecture of the binary you're trying to execute and the architecture of the system you're running it on.
 
 This is a known error when building Docker images on Apple Silicon (M1) Macs.
 
